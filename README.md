@@ -1,0 +1,3 @@
+# Simple-Matrix-1x1
+
+Its only a tiny Console Output with the 1 x 1 Matrix ...
